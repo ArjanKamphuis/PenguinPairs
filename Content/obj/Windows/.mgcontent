@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_arrow1@4.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_arrow2@4.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_arrow_hint@4.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_background_help.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_background_level.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_background_levelselect.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_background_options.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_back.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_help.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_hint.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_offon@2.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_options.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_play.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_quit.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_button_retry.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_field@2.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_frame_goal.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_help.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_levels_solved@6.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_level_finished.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_level_unsolved.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_lock.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_penguin@4x2.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_penguin@8.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_penguin_boxed@8.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_penguin_empty.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_penguin_pairs@8.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_shark.png</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_slider_bar.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_slider_button.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_titlescreen.jpg</File>
+    <File>D:/Arjan/Documents/Programming/Learning C# By Programming Games/Part4/PenguinPairs/PenguinPairs/Content/Sprites/spr_wall.png</File>
+  </SourceFiles>
+</SourceFileCollection>
